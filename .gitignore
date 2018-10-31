@@ -3,3 +3,10 @@
 ################################################################################
 
 /SocketsconTCP/ClienteTCP/obj
+/SocketsconTCP/ClienteTCP/bin/Debug
+/SocketsconTCP/ClienteTCPTipoEco/bin/Debug
+/SocketsconTCP/ClienteTCPTipoEco/obj
+/SocketsconTCP/ServidorTCP/bin/Debug
+/SocketsconTCP/ServidorTCP/obj/Debug
+/SocketsconTCP/ServidorTCPTipoEco/bin/Debug
+/SocketsconTCP/ServidorTCPTipoEco/obj/Debug
