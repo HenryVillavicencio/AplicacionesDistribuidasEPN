@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componente", "Componente\Componente.csproj", "{FCCAB086-3106-46E8-AE59-C9A38FA037CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{80034652-8A16-4A6C-A612-A93C5539A283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{B4DDF526-EC4E-49BF-8077-FE6BA1912FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCAB086-3106-46E8-AE59-C9A38FA037CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCAB086-3106-46E8-AE59-C9A38FA037CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCAB086-3106-46E8-AE59-C9A38FA037CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCAB086-3106-46E8-AE59-C9A38FA037CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80034652-8A16-4A6C-A612-A93C5539A283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80034652-8A16-4A6C-A612-A93C5539A283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80034652-8A16-4A6C-A612-A93C5539A283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80034652-8A16-4A6C-A612-A93C5539A283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DDF526-EC4E-49BF-8077-FE6BA1912FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DDF526-EC4E-49BF-8077-FE6BA1912FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DDF526-EC4E-49BF-8077-FE6BA1912FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DDF526-EC4E-49BF-8077-FE6BA1912FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61055087-B64C-4623-8787-145C14AC3EC5}
+	EndGlobalSection
+EndGlobal

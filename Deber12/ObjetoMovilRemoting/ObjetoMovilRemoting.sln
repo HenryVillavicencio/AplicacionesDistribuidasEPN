@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componente", "Componente\Componente.csproj", "{E66A95DF-424C-4A99-B44E-2063B0DDF223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{493B86B0-01E6-42DF-AC20-956CBE154A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{3541E16C-A664-4AB9-BD05-92857E0909AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66A95DF-424C-4A99-B44E-2063B0DDF223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66A95DF-424C-4A99-B44E-2063B0DDF223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66A95DF-424C-4A99-B44E-2063B0DDF223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66A95DF-424C-4A99-B44E-2063B0DDF223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493B86B0-01E6-42DF-AC20-956CBE154A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493B86B0-01E6-42DF-AC20-956CBE154A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493B86B0-01E6-42DF-AC20-956CBE154A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493B86B0-01E6-42DF-AC20-956CBE154A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3541E16C-A664-4AB9-BD05-92857E0909AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3541E16C-A664-4AB9-BD05-92857E0909AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3541E16C-A664-4AB9-BD05-92857E0909AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3541E16C-A664-4AB9-BD05-92857E0909AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679277B0-77C8-44AB-8CBA-C9B9DFD490EA}
+	EndGlobalSection
+EndGlobal

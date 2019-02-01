@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponenteCAO", "ComponenteCAO\ComponenteCAO.csproj", "{C2D16440-630A-4036-A62F-81EB0A618A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorCAO", "ServidorCAO\ServidorCAO.csproj", "{767E3506-E884-45CF-B614-A1AE6B46DE16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteCAO", "ClienteCAO\ClienteCAO.csproj", "{83FA14DE-B534-44DF-B093-915E5B7E5895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D16440-630A-4036-A62F-81EB0A618A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D16440-630A-4036-A62F-81EB0A618A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D16440-630A-4036-A62F-81EB0A618A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D16440-630A-4036-A62F-81EB0A618A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767E3506-E884-45CF-B614-A1AE6B46DE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767E3506-E884-45CF-B614-A1AE6B46DE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767E3506-E884-45CF-B614-A1AE6B46DE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767E3506-E884-45CF-B614-A1AE6B46DE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FA14DE-B534-44DF-B093-915E5B7E5895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FA14DE-B534-44DF-B093-915E5B7E5895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FA14DE-B534-44DF-B093-915E5B7E5895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FA14DE-B534-44DF-B093-915E5B7E5895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

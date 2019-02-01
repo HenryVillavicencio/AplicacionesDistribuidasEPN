@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componente", "Componente\Componente.csproj", "{ADA6BCAC-1B36-4820-8074-D1E8F4E8DB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{4650236C-D662-4232-9A6E-650B9CB5F7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{2B9E134E-61E6-4179-A8D8-B9CF991DAF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA6BCAC-1B36-4820-8074-D1E8F4E8DB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA6BCAC-1B36-4820-8074-D1E8F4E8DB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA6BCAC-1B36-4820-8074-D1E8F4E8DB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA6BCAC-1B36-4820-8074-D1E8F4E8DB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4650236C-D662-4232-9A6E-650B9CB5F7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4650236C-D662-4232-9A6E-650B9CB5F7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4650236C-D662-4232-9A6E-650B9CB5F7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4650236C-D662-4232-9A6E-650B9CB5F7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9E134E-61E6-4179-A8D8-B9CF991DAF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9E134E-61E6-4179-A8D8-B9CF991DAF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9E134E-61E6-4179-A8D8-B9CF991DAF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9E134E-61E6-4179-A8D8-B9CF991DAF90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C4C6B6-2ECC-46B7-8BB1-31A4700E5B1B}
+	EndGlobalSection
+EndGlobal

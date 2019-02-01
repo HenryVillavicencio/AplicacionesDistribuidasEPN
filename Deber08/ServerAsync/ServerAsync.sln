@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocolo", "Protocolo\Protocolo.csproj", "{75CA7841-176C-4190-9A94-E82D2F26EEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{93B09D74-0CED-4E5F-AA1E-64218CEF4F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{A0C0F62B-3180-4FBD-8191-FF8931B86AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CA7841-176C-4190-9A94-E82D2F26EEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CA7841-176C-4190-9A94-E82D2F26EEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CA7841-176C-4190-9A94-E82D2F26EEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CA7841-176C-4190-9A94-E82D2F26EEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B09D74-0CED-4E5F-AA1E-64218CEF4F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B09D74-0CED-4E5F-AA1E-64218CEF4F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B09D74-0CED-4E5F-AA1E-64218CEF4F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B09D74-0CED-4E5F-AA1E-64218CEF4F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C0F62B-3180-4FBD-8191-FF8931B86AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C0F62B-3180-4FBD-8191-FF8931B86AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C0F62B-3180-4FBD-8191-FF8931B86AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C0F62B-3180-4FBD-8191-FF8931B86AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5337F7CD-7B90-4C74-99EC-79F066AC1719}
+	EndGlobalSection
+EndGlobal
